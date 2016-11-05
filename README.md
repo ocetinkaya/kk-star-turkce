@@ -1,5 +1,9 @@
-# kk-star-turkce
-wordpress kk star Türkçe dil dosyası
+# Wordpress kk star Türkçe Dil dosyası
 
-Merhaba arkadaşlar
+
+Merhaba arkadaşlar.
+
+Kk star eklentisinin özellikleri
+
+Google arama sonuçlarında oylama sonuçlarını göstermek için kullanılan bir eklentidir.
 
