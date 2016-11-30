@@ -17,4 +17,4 @@ Uyarı olarak dosyayı değiştirelim mi diye uyar verecektir ve kabul etmeniz d
 
 Not: Dosya içerisinde eklenti Türkçe talep linki eklenmiştir lütfen kaldırmayınız.
 
-Eklenti çeviri talepleriniz için <a href="http://atvmotor.web.tr/">http://atvmotor.web.tr/</a> sitesinden iletişim kısmını kullanabilirsiniz.
+Bu çeviri <span style="text-decoration: underline;"><strong><a href="http://atvmotor.web.tr" target="_blank">atv motor</a></strong></span> sitesi aracılığı ile yapılmış olup isteklerinizi iletişim yolu ile yapabilirsiniz.
